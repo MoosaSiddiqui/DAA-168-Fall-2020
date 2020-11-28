@@ -1,0 +1,12 @@
+Members:
+Muhammad Moosa Siddiqui (61855)
+Hussain Raza (59402)
+Haseeb Abaas Naqvi (60704)
+
+The below is the github repository link where we share the all three possible solution of nqueen problem and in repository the final Phase contains the entire solution .md file and their running code file we could not find the solution 3 so we only put 2 running solution in html file and for solution 3 we only specify that how can we possibly solve the nqueen with solution 3.
+
+The github link to repository is : https://github.com/MoosaSiddiqui/DAA-168-Fall-2020
+
+And the below is the free hosted website link where we put our .html and java script file we have some issue regarding website that it is currently not redirected to our file but hope we can fix it shortly.
+ 
+The link to the website is : https://nqueensolutions.000webhostapp.com/nQueen.html
